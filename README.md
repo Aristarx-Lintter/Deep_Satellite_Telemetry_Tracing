@@ -4,7 +4,7 @@
 
 *The project shows a particular solution of the tracing problem. 
 The main goal is to propagate anomalies in satellite telemetry. 
-There are a several of approaches to solve the problem, 
+There are a several approaches to solve the problem, 
 but the system reflects the case based on tracer implementation. 
 The idea of applying the approach is inspired by the 
 [article](https://stanford.edu/~cpiech/bio/papers/deepKnowledgeTracing.pdf).
