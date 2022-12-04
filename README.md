@@ -2,8 +2,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1g_nv_p5bZ1sPYu1swRVqDoMPGx0DEphx?usp=sharing)
 
-*The project shows a particular solution of the tracing problem. 
-The main goal is anomalн propagation in satellite telemetry. 
+*The main goal is anomaly propagation in satellite telemetry. 
 There are a several approaches to solve the problem, 
 but the system reflects the case based on tracer implementation. 
 The idea of applying the approach is inspired by the 
