@@ -1,9 +1,9 @@
 # Deep_Satellite_Telemetry_Tracing
 
 *The main goal is anomaly propagation in satellite telemetry. 
-There are a several approaches to solve the problem, 
+There are several approaches to solve the problem, 
 but the system reflects the case based on tracer implementation. 
-The idea of applying the approach is inspired by the 
+The idea of applying this approach is inspired by the 
 [article](https://stanford.edu/~cpiech/bio/papers/deepKnowledgeTracing.pdf).
 The implementation of the tracer is based on the 
 [project](https://github.com/seewoo5/KT)*
